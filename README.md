@@ -71,4 +71,4 @@ and many more, including code architecture and reusability.
 
 - **Feedback:** If you have any feedback or suggestions, I would love to hear from you. Reach out via the contact form on the portfolio or open an issue on GitHub.
 
-- **Live Demo:** [View the live version of my portfolio](https://menath-portfolio.vercel.app/) to see it in action!
+- **Live Demo:** [View the live version of my portfolio](https://vitalii-next-portfolio.netlify.app/) to see it in action!
